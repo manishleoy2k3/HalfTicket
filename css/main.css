@@ -9,6 +9,17 @@ body {
     width: 1000px;
 }
 
+.container1 {
+	
+	text-align: center;
+}
+
+.button1 {
+	display: inline-block;
+    color: #2aacc8;
+    font-size: 25px;
+}
+
 .bold_text {
     font-weight: bold;
 }
