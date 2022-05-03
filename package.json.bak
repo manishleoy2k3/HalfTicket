@@ -1,0 +1,19 @@
+{
+  "name": "halfticket",
+  "version": "1.0.0",
+  "description": "Half Ticket website Project using HTML and CSS - will move to React Native later",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishleoy2k3/HalfTicket.git"
+  },
+  "author": "Manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishleoy2k3/HalfTicket/issues"
+  },
+  "homepage": "https://github.com/manishleoy2k3/HalfTicket#readme"
+}
