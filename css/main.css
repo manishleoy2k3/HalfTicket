@@ -9,8 +9,16 @@ body {
     width: 1000px;
 }
 
+#product-62 div.summary.entry-summary{
+	float:none !important;
+	max-width:550px !important;
+	width:90% !important;
+	margin: 0 auto;
+}
+
 .container1 {
 	text-align: center;
+    width: 1000px;
 }
 
 .button1 {
